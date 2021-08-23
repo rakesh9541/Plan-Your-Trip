@@ -1,0 +1,122 @@
+
+html{
+    background-color: #270E2D;
+}
+
+nav {
+    background-color:#270E2D;
+}
+textarea.Details {
+    text-shadow:1.2px solid #660885;
+
+}
+
+button.btn-primary{
+    background-color: #fc0097;
+    border-color: #BD00FF ;
+}
+
+text.Details{
+    color: white;
+
+
+}
+div.offcanvas {
+    background-color: #270E2D;
+    max-width: 75%;
+
+}
+button.btn-close {
+    margin-left:5%;
+    margin-top: 5%;
+}
+
+img.logopic {
+    max-width: 90%;
+    max-height: 90%;
+}
+hr.horizontalrulenav {
+    border: 2px solid;
+    max-width: 100%;
+}
+
+
+section.bodytext {
+    background-color: #270E2D;
+    
+}
+
+div.subclass {
+    padding-top:7%;
+    padding-right: 10%;
+    max-width: 100%;
+    padding-left: 12%;
+}
+.belowLogo {
+    color: wheat;
+    font-family:sans-serif;
+
+}
+
+div.Free{
+    padding:2;
+}
+
+div.Waves{
+    position: relative;
+    width:100%;
+    height:100%;
+    background-color: #270E2D;
+
+
+
+}
+
+section.flexbox {
+    background-color: #BD00FF;
+}
+
+div.happy {
+    height: 100%;
+    max-height: 100%;
+    background-color: #BD00FF;
+
+}
+h3.ending {
+    padding-top: 15%;
+    margin-left: 40%;
+    margin-right: 40%;
+    max-width: 100%;
+}
+
+
+div.box {
+    background-color: #270E2D;
+}
+
+img.image{
+    top:40%;
+    bottom: 0;
+    max-width: 70%;
+    margin-left: 30%;
+    z-index: 1;
+}
+
+div.bodyMatter {
+    margin-left: auto;
+    margin-right:0%;
+    padding: 0%;
+}
+
+
+hr{
+    color: rgb(255, 125, 255);
+    }
+ 
+
+
+
+
+
+
+
