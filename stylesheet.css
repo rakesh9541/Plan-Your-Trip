@@ -89,6 +89,25 @@ h3.ending {
     max-width: 100%;
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+    span {
+      color: #660885;
+    }
+    span.line {
+      margin: 0 0.3rem;
+      display: inline-block;
+      width: 3rem;
+      height: 0.2rem;
+
+      background-color: #660885;
+    }
+
 
 div.box {
     background-color: #270E2D;
